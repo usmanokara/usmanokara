@@ -33,6 +33,18 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 - 🧩 Integrate APIs, payments, maps, notifications & social logins
 
 ---
+## 🧠 Tech Stack & Highlights
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Fiverr-Top%20Rated-success?style=for-the-badge&logo=fiverr&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apps-30%2B%20Published-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clients-Global%20Delivery-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-DotsBit-black?style=for-the-badge" />
+</p>
+
+---
+
 
 ## 🛠 Languages & Tools
 
