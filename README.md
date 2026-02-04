@@ -24,15 +24,6 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 
 ---
 
-## 🧠 What I Do Best
-
-- 📱 Build **production-grade Flutter & FlutterFlow apps**
-- 🔥 Design **scalable Firebase & cloud architectures**
-- 🎯 Lead teams & manage end-to-end app delivery
-- ⚡ Fix complex bugs, optimize performance & refactor legacy code
-- 🧩 Integrate APIs, payments, maps, notifications & social logins
-
----
 ## 🧠 Tech Stack & Highlights
 
 <p align="left">
@@ -44,6 +35,16 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 </p>
 
 ---
+## 🧠 What I Do Best
+
+- 📱 Build **production-grade Flutter & FlutterFlow apps**
+- 🔥 Design **scalable Firebase & cloud architectures**
+- 🎯 Lead teams & manage end-to-end app delivery
+- ⚡ Fix complex bugs, optimize performance & refactor legacy code
+- 🧩 Integrate APIs, payments, maps, notifications & social logins
+
+---
+
 
 
 ## 🛠 Languages & Tools
