@@ -82,7 +82,7 @@ COMSATS Institute of Information & Technology
 
 ## 🌍 Let’s Connect
 - 💼 LinkedIn: [linkedin.com/in/usmanalics](https://www.linkedin.com/in/usmanalics)
-- 📧 Email: usman.okara@hotmail.com
+- 📧 Website: https://www.dotsbit.com 
 
 ---
 
