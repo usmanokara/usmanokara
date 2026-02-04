@@ -1,7 +1,7 @@
 # Hi, I'm Usman Ali 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+at+DotsBit;Flutter+%26+FlutterFlow+Expert;Firebase+%26+Scalable+Backends;Building+Production-Ready+Mobile+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+at+DotsBit;Flutter+%26+FlutterFlow+Expert;Firebase+%26+Cloud+Functions;Building+Production-Ready+Mobile+Apps" />
 </p>
 
 <p align="center">
@@ -12,60 +12,48 @@
 
 ## 🚀 About Me
 
-I’m a **Mobile Application Developer turned Founder**, with **5+ years of hands-on experience** building Android, iOS, and cross-platform apps using **Flutter, FlutterFlow, and Firebase**.
+I’m a **Mobile Application Developer turned Founder**, with **5+ years of experience** building high-quality Android, iOS, and cross-platform applications using **Flutter, FlutterFlow, and Firebase**.
 
 My journey started in **2019**, when I began freelancing on **Fiverr alongside a full-time job**.  
-Late nights, tight deadlines, constant learning — all while delivering quality work.
+Late nights, tight deadlines, constant learning — all while delivering real value to clients.
 
 By **2024**, Fiverr gave me enough **wind to fly** 🚀  
 That momentum helped me take the leap from solo developer to **Founder & CEO of DotsBit**, where I now lead a team delivering scalable, production-ready apps for global clients.
 
-> *Consistency, ownership, and treating every project like a product changed everything.*
+> *Skills matter — but consistency, ownership, and reliability build careers.*
 
 ---
 
 ## 🧠 What I Do Best
 
 - 📱 Build **production-grade Flutter & FlutterFlow apps**
-- 🔥 Design **scalable Firebase / Supabase architectures**
+- 🔥 Design **scalable Firebase & cloud architectures**
 - 🎯 Lead teams & manage end-to-end app delivery
 - ⚡ Fix complex bugs, optimize performance & refactor legacy code
 - 🧩 Integrate APIs, payments, maps, notifications & social logins
 
 ---
 
-## 🧠 Tech Stack & Highlights
+## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Fiverr-%20LEVEL2-success?style=for-the-badge&logo=fiverr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Apps-30%2B%20Published-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clients-Global%20Delivery-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Company-DotsBit-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/FlutterFlow-5B2EFF?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud%20Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
-## 🏗️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-**Mobile & Frontend**
-- Flutter, Dart, FlutterFlow  
-- Android (Java), iOS  
-- GetX, Provider, Bloc  
-- Figma → Pixel-perfect UI  
-
-**Backend & Cloud**
-- Firebase (Auth, Firestore, Cloud Functions, FCM)  
-- Supabase  
-- Node.js (Express / Cloud Functions)  
-- REST APIs, Webhooks  
-
-**Other**
-- Git & GitHub  
-- In-App Purchases  
-- Payments (Stripe, PayPal)  
-- Twilio  
-- Agile Development  
+> I use these tools daily to design, build, scale, and maintain production-ready applications.
 
 ---
 
@@ -91,7 +79,7 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 ### **Senior Flutter / Android Developer — Fantech Labs**
 📍 Jan 2019 – Sep 2023  
 - Built Android & Flutter apps used by thousands  
-- Led Flutter teams & handled client communication  
+- Led Flutter teams & client communication  
 - Published **20+ apps** on Play Store & App Store  
 
 ---
@@ -112,10 +100,16 @@ COMSATS Institute of Information & Technology
 
 ---
 
-## 🌍 Let’s Connect
+## 🌍 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/usmanalics  
-- 🌐 Website: https://www.dotsbit.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/usmanalics">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.dotsbit.com">
+    <img src="https://img.shields.io/badge/Website-dotsbit.com-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
