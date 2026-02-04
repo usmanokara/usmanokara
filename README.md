@@ -57,6 +57,27 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 
 ---
 
+
+
+
+# Repositories
+
+| Name                                                                                                               | Stars                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [react-native-compressor](https://github.com/Shobbak/react-native-compressor)                            | [![GitHub Repo stars](https://img.shields.io/github/stars/Shobbak/react-native-compressor?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/Shobbak/react-native-compressor)   
+| [react-native-keys](https://github.com/numandev1/react-native-keys)                                       | [![GitHub Repo stars](https://img.shields.io/github/stars/numandev1/react-native-keys?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/numandev1/react-native-keys)                                       |    
+| [react-native-bottomsheet-reanimated](https://github.com/numandev1/react-native-bottomsheet-reanimated)   | [![GitHub Repo stars](https://img.shields.io/github/stars/numandev1/react-native-bottomsheet-reanimated?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/numandev1/react-native-bottomsheet-reanimated)   |                      |
+| [react-native-component-splitter](https://github.com/numandev1/react-native-component-splitter)           | [![GitHub Repo stars](https://img.shields.io/github/stars/numandev1/react-native-component-splitter?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/numandev1/react-native-component-splitter)           |
+| [react-native-decompiler](https://github.com/numandev1/react-native-decompiler)                           | [![GitHub Repo stars](https://img.shields.io/github/stars/numandev1/react-native-decompiler?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/numandev1/react-native-decompiler)                           | .   |
+| [github-emoji-extension](https://github.com/numandev1/github-emoji-extension)                           | [![GitHub Repo stars](https://img.shields.io/github/stars/numandev1/github-emoji-extension?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/numandev1/github-emoji-extension)                           | .   |
+| [react-native-curved-bottom-tabbar](https://github.com/numandev1/react-native-curved-bottom-tabbar)       | [![GitHub Repo stars](https://img.shields.io/github/stars/numandev1/react-native-curved-bottom-tabbar?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/numandev1/react-native-curved-bottom-tabbar)       | .   |
+| [mtsl (Tangible symlink)](https://github.com/numandev1/mtsl)                                                                 | [![GitHub Repo stars](https://img.shields.io/github/stars/numandev1/mtsl?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/numandev1/mtsl)                                                                 |
+| [linkedin-auto-bot](https://github.com/numandev1/linkedin-auto-bot)                                       | [![GitHub Repo stars](https://img.shields.io/github/stars/numandev1/linkedin-auto-bot?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/numandev1/linkedin-auto-bot)                                       |
+| [react-native-masonry-grid ](https://github.com/numandev1/react-native-masonry-grid )                                       | [![GitHub Repo stars](https://img.shields.io/github/stars/numandev1/react-native-masonry-grid?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/numandev1/react-native-masonry-grid)      
+
+
+
+---
 ## 🧪 Open Source & Contributions
 
 - 📦 Flutter packages:
