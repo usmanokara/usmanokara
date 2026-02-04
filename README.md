@@ -3,7 +3,7 @@
 
 
 
-[![Usman Ali profile views](https://u8views.com/api/v1/github/profiles/17504631/views/day-week-month-total-count.svg)](https://u8views.com/github/usmanokara)
+[![Usman Ali profile views](https://u8views.com/api/v1/github/profiles/17504631/views/total-count.svg)](https://u8views.com/github/usmanokara)
 
 
 
