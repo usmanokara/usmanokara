@@ -8,7 +8,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=1000&lines=%F0%9F%9A%80+Founder+at+DotsBit+%7C+Flutter+%26+FlutterFlow+Expert+%7C+Firebase+%7C+Mobile+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=%F0%9F%9A%80+Founder+at+DotsBit+%7C+Flutter+%26+FlutterFlow+Expert+%7C+Firebase+%7C+Mobile+Architect)](https://git.io/typing-svg)
 
 
   
