@@ -73,13 +73,6 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 
 
 
-# Repositories
-
-| Name                                                                                                               | Stars                                                                                                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [flutter-story-view](https://github.com/usmanokara/flutter-story-view)                            | [![GitHub Repo stars](https://img.shields.io/github/stars/usmanokara/flutter-story-view?color=black&label=%F0%9F%8C%9F&style=for-the-badge)](https://github.com/usmaokara/flutter-story-view)   
-
-
 ---
 ## 🧪 Open Source & Contributions
 
