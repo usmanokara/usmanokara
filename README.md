@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/usmanokara/count.svg" alt="Visitor's Count" />
-</div>
 
 [![Usman Ali profile views](https://u8views.com/api/v1/github/profiles/17504631/views/day-week-month-total-count.svg)](https://u8views.com/github/usmanokara)
 
