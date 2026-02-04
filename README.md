@@ -72,7 +72,6 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 
 
 
-https://github.com/usmanokara/flutter-story-view
 
 # Repositories
 
