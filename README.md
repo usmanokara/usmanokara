@@ -117,7 +117,7 @@ COMSATS Institute of Information & Technology
 
 ## 📊 GitHub Stats
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=usmanokara)](https://github.com/usmanokara/github-readme-stats-fast)
 
 ---
 
