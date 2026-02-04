@@ -4,7 +4,8 @@
 
 [![Usman Ali profile views](https://u8views.com/api/v1/github/profiles/17504631/views/day-week-month-total-count.svg)](https://u8views.com/github/usmanokara)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+%7C+FlutterFlow+%7C+Mobile+App+Developer;Founder+of+DOTSBIT;FULL+TIME+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&width=850&lines=Flutter+%7C+FlutterFlow+%7C+Mobile+App+Developer;Founder+of+DOTSBIT;FULL+TIME+DEVELOPER)](https://git.io/typing-svg)
+
 <!--
 **usmanokara/usmanokara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
