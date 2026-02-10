@@ -75,10 +75,10 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 | Project Name | Project Image | Project Link | Testimonial (YouTube) |
 |-------------|--------------|--------------|----------------------|
 | Granny: AI Parenting Coach | <img src="https://github.com/usmanokara/usmanokara/blob/main/Granny%20App.webp" width="200" /> | [Open Link](https://apps.apple.com/us/app/granny-ai-parenting-coach/id6466166824) | [Watch Video](https://www.youtube.com/watch?v=fFwJyjeYE-o) |
-| Veistu hvar | <img src="https://github.com/usmanokara/usmanokara/blob/main/Granny%20App.webp" width="200" /> | [Open Link](https://play.google.com/store/apps/details?id=com.dotsbit.veistuhvar) |  | 
-| Granny: AI Parenting Coach | <img src="https://github.com/usmanokara/usmanokara/blob/main/Granny%20App.webp" width="200" /> | [Open Link](https://apps.apple.com/us/app/granny-ai-parenting-coach/id6466166824) | [Watch Video](https://www.youtube.com/watch?v=fFwJyjeYE-o) |
-
-
+| Veistu hvar | <img src="https://github.com/usmanokara/usmanokara/blob/main/tool_app.png" width="200" /> | [Open Link](https://play.google.com/store/apps/details?id=com.dotsbit.veistuhvar) |  | 
+| MHiN مهن | <img src="https://github.com/usmanokara/usmanokara/blob/main/mhin.png" width="200" /> | [Open Link](https://play.google.com/store/apps/details?id=com.dotsbit.mhin) |  |
+| Socliate | <img src="https://github.com/usmanokara/usmanokara/blob/main/socialite.png" width="200" /> | [Open Link](https://play.google.com/store/apps/details?id=com.dotsbit.socialite) |  |
+| Areti | <img src="https://github.com/usmanokara/usmanokara/blob/main/areti.png" width="200" /> | [Open Link](https://aretiapp.com) | [Watch Video](https://www.youtube.com/watch?v=4Yz2_baq0-Y) |
 
 
 
