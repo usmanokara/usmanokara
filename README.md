@@ -70,11 +70,14 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 
 ---
 
+## 🛠 My portfolio
+
 | Project Name | Project Image | Project Link | Testimonial (YouTube) |
 |-------------|--------------|--------------|----------------------|
-| Granny: AI Parenting Coach | <img src="IMAGE_URL_HERE" width="80" /> | https://apps.apple.com/us/app/granny-ai-parenting-coach/id6466166824 | https://www.youtube.com/watch?v=fFwJyjeYE-o |
-| Areti | <img src="IMAGE_URL_HERE" width="80" /> | https://example.com | https://youtube.com/watch?v=VIDEO_ID |
-| Admin Panel | <img src="IMAGE_URL_HERE" width="80" /> | Private | https://youtube.com/watch?v=VIDEO_ID |
+| Granny: AI Parenting Coach | <img src="https://github.com/usmanokara/usmanokara/blob/main/Granny%20App.webp" width="200" /> | [Open Link](https://apps.apple.com/us/app/granny-ai-parenting-coach/id6466166824) | [Watch Video](https://www.youtube.com/watch?v=fFwJyjeYE-o) |
+| Veistu hvar | <img src="https://github.com/usmanokara/usmanokara/blob/main/Granny%20App.webp" width="200" /> | [Open Link](https://play.google.com/store/apps/details?id=com.dotsbit.veistuhvar) |  | 
+| Granny: AI Parenting Coach | <img src="https://github.com/usmanokara/usmanokara/blob/main/Granny%20App.webp" width="200" /> | [Open Link](https://apps.apple.com/us/app/granny-ai-parenting-coach/id6466166824) | [Watch Video](https://www.youtube.com/watch?v=fFwJyjeYE-o) |
+
 
 
 
