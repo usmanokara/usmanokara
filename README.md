@@ -70,11 +70,12 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 
 ---
 
-| Project Name | Project Image | Project Link |
-|-------------|--------------|--------------|
-| MOMumental | <img src="IMAGE_URL_HERE" width="80" /> | https://apps.apple.com/us/app/momumental/id6503072018 |
-| Areti | <img src="IMAGE_URL_HERE" width="80" /> | https://example.com |
-| Admin Panel | <img src="IMAGE_URL_HERE" width="80" /> | Private |
+| Project Name | Project Image | Project Link | Testimonial (YouTube) |
+|-------------|--------------|--------------|----------------------|
+| Granny: AI Parenting Coach | <img src="IMAGE_URL_HERE" width="80" /> | https://apps.apple.com/us/app/granny-ai-parenting-coach/id6466166824 | https://www.youtube.com/watch?v=fFwJyjeYE-o |
+| Areti | <img src="IMAGE_URL_HERE" width="80" /> | https://example.com | https://youtube.com/watch?v=VIDEO_ID |
+| Admin Panel | <img src="IMAGE_URL_HERE" width="80" /> | Private | https://youtube.com/watch?v=VIDEO_ID |
+
 
 
 
