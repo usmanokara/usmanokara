@@ -74,6 +74,7 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 
 | Project Name | Project Image | Project Link | Testimonial (YouTube) |
 |-------------|--------------|--------------|----------------------|
+| OpenSoul| <img src="https://github.com/usmanokara/usmanokara/blob/main/opensoul.png" width="200" /> | [Web Link](http://opensoulworld.com/) - [App Link](https://play.google.com/store/apps/details?id=com.dotsbit.openSoul1)| |
 | Granny: AI Parenting Coach | <img src="https://github.com/usmanokara/usmanokara/blob/main/Granny%20App.webp" width="200" /> | [Open Link](https://apps.apple.com/us/app/granny-ai-parenting-coach/id6466166824) | [Watch Video](https://www.youtube.com/watch?v=fFwJyjeYE-o) |
 | Veistu hvar | <img src="https://github.com/usmanokara/usmanokara/blob/main/tool_app.png" width="200" /> | [Open Link](https://play.google.com/store/apps/details?id=com.dotsbit.veistuhvar) |  | 
 | MHiN مهن | <img src="https://github.com/usmanokara/usmanokara/blob/main/mhin.png" width="200" /> | [Open Link](https://play.google.com/store/apps/details?id=com.dotsbit.mhin) |  |
