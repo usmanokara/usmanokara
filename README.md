@@ -79,6 +79,7 @@ That momentum helped me take the leap from solo developer to **Founder & CEO of 
 | MHiN مهن | <img src="https://github.com/usmanokara/usmanokara/blob/main/mhin.png" width="200" /> | [Open Link](https://play.google.com/store/apps/details?id=com.dotsbit.mhin) |  |
 | Socliate | <img src="https://github.com/usmanokara/usmanokara/blob/main/socialite.png" width="200" /> | [Open Link](https://play.google.com/store/apps/details?id=com.dotsbit.socialite) |  |
 | Areti | <img src="https://github.com/usmanokara/usmanokara/blob/main/areti.png" width="200" /> | [Open Link](https://aretiapp.com) | [Watch Video](https://www.youtube.com/watch?v=4Yz2_baq0-Y) |
+| Basically Speech | <img src="https://instagram.flyp20-1.fna.fbcdn.net/v/t51.2885-19/290624372_397182355560605_5317569641325254814_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzkuYzIifQ&_nc_ht=instagram.flyp20-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QEgUmFhG_pFIS3LUjC0GSg_RQTTXHv78EdM2uHSJiMZFXrKOmWO6Qa1biwv7q-tDfQ&_nc_ohc=Bxh3t9JzMSsQ7kNvwFOALP6&_nc_gid=qvLE_D-k8lJ6a9ySsjEWaw&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfskKI3V9pSTGr4O8FO41Arcjj_OMPBHvCNlVHLWcSuHCw&oe=699114B7&_nc_sid=22de04" width="200" /> | [Open Link](https://www.instagram.com/basicallyspeech/) | [Watch Video](https://www.youtube.com/watch?v=PrOUZApYm_g&t=1s) |
 
 
 
